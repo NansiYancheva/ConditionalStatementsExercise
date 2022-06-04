@@ -1,0 +1,15 @@
+C:\Visual Studio\Sum Seconds\GodzillaKong\bin\Debug\net6.0\GodzillaKong.exe
+C:\Visual Studio\Sum Seconds\GodzillaKong\bin\Debug\net6.0\GodzillaKong.deps.json
+C:\Visual Studio\Sum Seconds\GodzillaKong\bin\Debug\net6.0\GodzillaKong.runtimeconfig.json
+C:\Visual Studio\Sum Seconds\GodzillaKong\bin\Debug\net6.0\GodzillaKong.dll
+C:\Visual Studio\Sum Seconds\GodzillaKong\bin\Debug\net6.0\ref\GodzillaKong.dll
+C:\Visual Studio\Sum Seconds\GodzillaKong\bin\Debug\net6.0\GodzillaKong.pdb
+C:\Visual Studio\Sum Seconds\GodzillaKong\obj\Debug\net6.0\GodzillaKong.csproj.AssemblyReference.cache
+C:\Visual Studio\Sum Seconds\GodzillaKong\obj\Debug\net6.0\GodzillaKong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\Sum Seconds\GodzillaKong\obj\Debug\net6.0\GodzillaKong.AssemblyInfoInputs.cache
+C:\Visual Studio\Sum Seconds\GodzillaKong\obj\Debug\net6.0\GodzillaKong.AssemblyInfo.cs
+C:\Visual Studio\Sum Seconds\GodzillaKong\obj\Debug\net6.0\GodzillaKong.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Sum Seconds\GodzillaKong\obj\Debug\net6.0\GodzillaKong.dll
+C:\Visual Studio\Sum Seconds\GodzillaKong\obj\Debug\net6.0\ref\GodzillaKong.dll
+C:\Visual Studio\Sum Seconds\GodzillaKong\obj\Debug\net6.0\GodzillaKong.pdb
+C:\Visual Studio\Sum Seconds\GodzillaKong\obj\Debug\net6.0\GodzillaKong.genruntimeconfig.cache

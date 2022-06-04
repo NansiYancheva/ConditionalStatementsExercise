@@ -1,0 +1,15 @@
+C:\Visual Studio\Sum Seconds\Lunch Break\bin\Debug\net6.0\Lunch Break.exe
+C:\Visual Studio\Sum Seconds\Lunch Break\bin\Debug\net6.0\Lunch Break.deps.json
+C:\Visual Studio\Sum Seconds\Lunch Break\bin\Debug\net6.0\Lunch Break.runtimeconfig.json
+C:\Visual Studio\Sum Seconds\Lunch Break\bin\Debug\net6.0\Lunch Break.dll
+C:\Visual Studio\Sum Seconds\Lunch Break\bin\Debug\net6.0\ref\Lunch Break.dll
+C:\Visual Studio\Sum Seconds\Lunch Break\bin\Debug\net6.0\Lunch Break.pdb
+C:\Visual Studio\Sum Seconds\Lunch Break\obj\Debug\net6.0\Lunch Break.csproj.AssemblyReference.cache
+C:\Visual Studio\Sum Seconds\Lunch Break\obj\Debug\net6.0\Lunch Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\Sum Seconds\Lunch Break\obj\Debug\net6.0\Lunch Break.AssemblyInfoInputs.cache
+C:\Visual Studio\Sum Seconds\Lunch Break\obj\Debug\net6.0\Lunch Break.AssemblyInfo.cs
+C:\Visual Studio\Sum Seconds\Lunch Break\obj\Debug\net6.0\Lunch Break.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Sum Seconds\Lunch Break\obj\Debug\net6.0\Lunch Break.dll
+C:\Visual Studio\Sum Seconds\Lunch Break\obj\Debug\net6.0\ref\Lunch Break.dll
+C:\Visual Studio\Sum Seconds\Lunch Break\obj\Debug\net6.0\Lunch Break.pdb
+C:\Visual Studio\Sum Seconds\Lunch Break\obj\Debug\net6.0\Lunch Break.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Visual Studio\Sum Seconds\Bonus Score\bin\Debug\net6.0\Bonus Score.exe
+C:\Visual Studio\Sum Seconds\Bonus Score\bin\Debug\net6.0\Bonus Score.deps.json
+C:\Visual Studio\Sum Seconds\Bonus Score\bin\Debug\net6.0\Bonus Score.runtimeconfig.json
+C:\Visual Studio\Sum Seconds\Bonus Score\bin\Debug\net6.0\Bonus Score.dll
+C:\Visual Studio\Sum Seconds\Bonus Score\bin\Debug\net6.0\ref\Bonus Score.dll
+C:\Visual Studio\Sum Seconds\Bonus Score\bin\Debug\net6.0\Bonus Score.pdb
+C:\Visual Studio\Sum Seconds\Bonus Score\obj\Debug\net6.0\Bonus Score.csproj.AssemblyReference.cache
+C:\Visual Studio\Sum Seconds\Bonus Score\obj\Debug\net6.0\Bonus Score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\Sum Seconds\Bonus Score\obj\Debug\net6.0\Bonus Score.AssemblyInfoInputs.cache
+C:\Visual Studio\Sum Seconds\Bonus Score\obj\Debug\net6.0\Bonus Score.AssemblyInfo.cs
+C:\Visual Studio\Sum Seconds\Bonus Score\obj\Debug\net6.0\Bonus Score.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Sum Seconds\Bonus Score\obj\Debug\net6.0\Bonus Score.dll
+C:\Visual Studio\Sum Seconds\Bonus Score\obj\Debug\net6.0\ref\Bonus Score.dll
+C:\Visual Studio\Sum Seconds\Bonus Score\obj\Debug\net6.0\Bonus Score.pdb
+C:\Visual Studio\Sum Seconds\Bonus Score\obj\Debug\net6.0\Bonus Score.genruntimeconfig.cache

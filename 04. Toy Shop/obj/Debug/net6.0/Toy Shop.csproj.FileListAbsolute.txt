@@ -1,0 +1,15 @@
+C:\Visual Studio\Sum Seconds\Toy Shop\bin\Debug\net6.0\Toy Shop.exe
+C:\Visual Studio\Sum Seconds\Toy Shop\bin\Debug\net6.0\Toy Shop.deps.json
+C:\Visual Studio\Sum Seconds\Toy Shop\bin\Debug\net6.0\Toy Shop.runtimeconfig.json
+C:\Visual Studio\Sum Seconds\Toy Shop\bin\Debug\net6.0\Toy Shop.dll
+C:\Visual Studio\Sum Seconds\Toy Shop\bin\Debug\net6.0\ref\Toy Shop.dll
+C:\Visual Studio\Sum Seconds\Toy Shop\bin\Debug\net6.0\Toy Shop.pdb
+C:\Visual Studio\Sum Seconds\Toy Shop\obj\Debug\net6.0\Toy Shop.csproj.AssemblyReference.cache
+C:\Visual Studio\Sum Seconds\Toy Shop\obj\Debug\net6.0\Toy Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\Sum Seconds\Toy Shop\obj\Debug\net6.0\Toy Shop.AssemblyInfoInputs.cache
+C:\Visual Studio\Sum Seconds\Toy Shop\obj\Debug\net6.0\Toy Shop.AssemblyInfo.cs
+C:\Visual Studio\Sum Seconds\Toy Shop\obj\Debug\net6.0\Toy Shop.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Sum Seconds\Toy Shop\obj\Debug\net6.0\Toy Shop.dll
+C:\Visual Studio\Sum Seconds\Toy Shop\obj\Debug\net6.0\ref\Toy Shop.dll
+C:\Visual Studio\Sum Seconds\Toy Shop\obj\Debug\net6.0\Toy Shop.pdb
+C:\Visual Studio\Sum Seconds\Toy Shop\obj\Debug\net6.0\Toy Shop.genruntimeconfig.cache

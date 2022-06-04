@@ -1,0 +1,14 @@
+C:\Visual Studio\Sum Seconds\World Swimming Record\bin\Debug\net6.0\World Swimming Record.exe
+C:\Visual Studio\Sum Seconds\World Swimming Record\bin\Debug\net6.0\World Swimming Record.deps.json
+C:\Visual Studio\Sum Seconds\World Swimming Record\bin\Debug\net6.0\World Swimming Record.runtimeconfig.json
+C:\Visual Studio\Sum Seconds\World Swimming Record\bin\Debug\net6.0\World Swimming Record.dll
+C:\Visual Studio\Sum Seconds\World Swimming Record\bin\Debug\net6.0\ref\World Swimming Record.dll
+C:\Visual Studio\Sum Seconds\World Swimming Record\bin\Debug\net6.0\World Swimming Record.pdb
+C:\Visual Studio\Sum Seconds\World Swimming Record\obj\Debug\net6.0\World Swimming Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\Sum Seconds\World Swimming Record\obj\Debug\net6.0\World Swimming Record.AssemblyInfoInputs.cache
+C:\Visual Studio\Sum Seconds\World Swimming Record\obj\Debug\net6.0\World Swimming Record.AssemblyInfo.cs
+C:\Visual Studio\Sum Seconds\World Swimming Record\obj\Debug\net6.0\World Swimming Record.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Sum Seconds\World Swimming Record\obj\Debug\net6.0\World Swimming Record.dll
+C:\Visual Studio\Sum Seconds\World Swimming Record\obj\Debug\net6.0\ref\World Swimming Record.dll
+C:\Visual Studio\Sum Seconds\World Swimming Record\obj\Debug\net6.0\World Swimming Record.pdb
+C:\Visual Studio\Sum Seconds\World Swimming Record\obj\Debug\net6.0\World Swimming Record.genruntimeconfig.cache
